@@ -1,1 +1,2 @@
-# Block_scheme_generator
+# BlockSchemeGenerator
+Aplikacja do tworzenia prostych schematów blokowych.
